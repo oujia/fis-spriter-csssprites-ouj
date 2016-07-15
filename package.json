@@ -14,7 +14,7 @@
     "url": "https://github.com/fis-dev/fis-spriter-csssprites.git"
   },
   "dependencies": {
-    "images": "2.1.5"
+    "images": "3.0.0"
   },
   "keywords": [
     "fis",
